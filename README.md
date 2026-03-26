@@ -27,7 +27,8 @@
 <h2>METODO POSTMAN 🔍</h2>
 <figure>
   <figcaption>
-    <img 
-<i>Imagem 1 : Metodo POSTMAN via POSTMAN <i>
+    <img <img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/8d9a3c63-52bb-4fef-a434-fc33241cda60" />
+
+<i>Imagem 2 : Metodo POSTMAN via POSTMAN <i>
   </figcaption>
 </figure>
